@@ -27,13 +27,13 @@ Plantilla digital para documentar, interpretar y comunicar el trabajo práctico 
 
 | Campo | Registro |
 |---|---|
-| Nombre y apellidos | **[Escribe aquí]** |
-| Grupo | **[Escribe aquí]** |
-| Módulo profesional | **[Escribe aquí]** |
+| Nombre y apellidos | **Leire Lobo Conde** |
+| Grupo | **2°LCB** |
+| Módulo profesional | **Laboratorio clínico y biomédico** |
 | Curso académico | **[2026–2027]** |
-| Centro educativo | **[Escribe aquí]** |
-| Profesor/a | **[Escribe aquí]** |
-| Fecha de inicio | **[dd/mm/aaaa]** |
+| Centro educativo | **IES Sáenz de Buruaga** |
+| Profesor/a | **Antonio Paredes** |
+| Fecha de inicio | **17/09/2026** |
 
 ## Cómo utilizar este cuaderno
 
