@@ -162,9 +162,9 @@ No disponemos de zona de recepción de muestras, ni señalizaciones. Trabajamos 
 |---|---|---|---|
 | Zona y señalización analizadas | observamos que no existen zonas ni señalizaciones| no | no es válido porque dificulta el trabajo ya que no disponemos de señalización ni zona de recepción de muestras|
 | Recepción e identificación trazables | observamos que no ha sido posible la recepción| no|no es válido porque puede dificultad el error y la identificación de una muestraya que no disponemos de área de recepción|
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Derrame contenido y descontaminado | Se realizó una simulación de derrame controlado. Se delimitó la zona afectada, se aplicó el procedimiento de contención y posteriormente se realizó la limpieza y descontaminación del área utilizando el material adecuado| si|   Es válido porque el derrame pudo ser controlado y la zona afectada fue limpiada y descontaminada siguiendo el procedimiento establecido, evitando la dispersión del material|
+| Residuos procesados y eliminados correctamente | Los materiales utilizados durante la simulación fueron recogidos y depositados en los recipientes destinados a los residuos correspondientes| si| Es válido porque los residuos generados durante el procedimiento fueron recogidos y separados adecuadamente para su posterior gestión|
+| Registro y comunicación final | Se registró la incidencia simulada y se comunicó el resultado del procedimiento al finalizar la práctica| si| Es válido porque se dejó constancia del derrame simulado y de las actuaciones realizadas, permitiendo comprobar que el procedimiento se había completado correctamente|
 
 ### 9.2 Resultado principal de la práctica
 
