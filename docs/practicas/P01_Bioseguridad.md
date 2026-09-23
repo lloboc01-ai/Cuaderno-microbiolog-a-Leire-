@@ -123,9 +123,9 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - **Fecha real de realización:** 23/09/2026
 - **Grupo:** 2°LCB
 - **Pareja o equipo, si procede:** Trabajo en grupo
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
-- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
+- **Rol o tarea principal que realizaste:** técnico de laboratorio 
+- **Modalidad realmente realizada:** simulación de derrame 
+- **Tipo de muestra o simulante utilizado:** agua del río Albarregas
 - **Código o identificación de la muestra:** [Completa sin datos personales]
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -134,25 +134,25 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-[Escribe aquí tu observación inicial.]
+No disponemos de zona de recepción de muestras, ni señalizaciones. Trabajamos en un espacio reducido y sin las medidas adecuadas
 
 ### 7.2 Riesgos identificados
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
+| No disponemos de una zona de recepción de muestras| equivocación en la identificación de las muestras| crear una zona para la recepción de muestras|
+| Falta de señalización | desconocimiento de los posibles riesgos biológicos| añadir las señalizaciones adecuadas|
+| Escased de materiales para la realización de la práctica| obligación de trabajar en grupos más grandes y como consecuencia problemas de comunicación| comprar más materiales |
 
 ### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | [Sí / No / No aplicaba] | [Completa] |
-| Guantes | [Sí / No / No aplicaba] | [Completa] |
-| Protección ocular o facial | [Sí / No / No aplicaba] | [Completa] |
-| Higiene de manos | [Describe cuándo y cómo] | [Completa] |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Bata u otra prenda de protección | si | medida general de protección|
+| Guantes | si | medida general de protección|
+| Protección ocular o facial | no | no es necesario para este tipo de práctica|
+| Higiene de manos | Antes y después de la práctica| lavar con jabón y abundante agua|
+| Otra barrera o medida | desinfección de la mesa de trabajo| impide las posibles contaminaciones|
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,8 +160,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas | observamos que no existen zonas ni señalizaciones| no | no es válido porque dificulta el trabajo ya que no disponemos de señalización ni zona de recepción de muestras|
+| Recepción e identificación trazables | observamos que no ha sido posible la recepción| no|no es válido porque puede dificultad el error y la identificación de una muestraya que no disponemos de área de recepción|
 | Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
