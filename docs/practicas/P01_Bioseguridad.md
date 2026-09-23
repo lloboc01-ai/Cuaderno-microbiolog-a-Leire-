@@ -170,7 +170,7 @@ No disponemos de zona de recepción de muestras, ni señalizaciones. Trabajamos 
 
 Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
 
-[Escribe aquí el resultado principal.]
+En esta práctica he aprendido a detectar problemas en la recepción de muestras, saber cuándo hay que aislarlas, actuar correctamente ante un derrame y gestionar los residuos. Además, sé dejar registrado lo que se ha hecho y comunicarlo de forma segura.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -180,8 +180,8 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
+- **Pie de foto:** Hemos usado las medidas generales de protección tanto bata como guantes
+- **Autoría y origen:** Compartida con mi pareja 
 - **Momento del procedimiento:** [Completa]
 
 ### Imagen 2 — Recepción correcta de la muestra
