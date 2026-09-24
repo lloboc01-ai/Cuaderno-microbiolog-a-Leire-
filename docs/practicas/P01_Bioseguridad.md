@@ -182,57 +182,57 @@ En esta práctica he aprendido a detectar problemas en la recepción de muestras
 
 - **Pie de foto:** Hemos usado las medidas generales de protección tanto bata como guantes
 - **Autoría y origen:** Compartida con mi pareja 
-- **Momento del procedimiento:** [Completa]
+- **Momento del procedimiento:** Inicio de la práctica 
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
-- **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Se observa un recipiente lleno de agua que hemos obtenido del río Albarregas 
+- **Comprobación técnica asociada:** No ha habido una buena recepción de la muestra ya que no tenemos un área de recepción de muestras
+- **Momento del procedimiento:** Recepción de la muestra 
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
-- **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** [Esquema propio / material docente autorizado / otra fuente; indica cuál]
-- **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
+- **Pie de figura:** Toma de muestra, identificación y etiquetado,transporte, recepción, preparación, análisis, validación, informe y conservación o eliminación
+- **Origen y autorización:** Esquema obtenido de la ia
+- **Relación con el procedimiento:** La relación con el procedimiento es el flujo de trabajo que tenemos que seguir en cada práctica 
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** [Qué se observa: señalización, contención, absorbente o aplicación del desinfectante]
-- **Medida crítica demostrada:** [Explica qué riesgo se controla]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Simulamos el derrame del contenido del recipiente y usamos papel como material absorbente, después de esto desinfectamos con alcohol 70° y gestionamos los residuos 
+- **Medida crítica demostrada:** Se evita en la medida de lo posible la contaminación 
+- **Momento del procedimiento:** Como actuamos antes un derrame 
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** [Qué residuo se procesa, en qué recipiente se deposita y qué tratamiento se aplica]
-- **Ruta autorizada:** [Completa según el protocolo del centro]
+- **Pie de foto:** Tenemos como residuos el papel absorbente y el recipiente que al contener agua no tiene ningún tipo de riesgo biológico entonces podemos tirarlo a la basura normal
+- **Ruta autorizada:** Al ser residuos sin riesgo biológico lo podemos gestionar como residuos asimilables a urbanos y no necesita ningún tipo de medida especial 
 - **Relación con la trazabilidad:** [Explica qué registro o decisión respalda]
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Si se detectaron incidencias |Falta de materiales, de señalización y de área de recepción de muestras| Obtener las cosas que faltan| No afecto debido a que era una práctica muy básica|
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la recepción de la muestra, el EPI seleccionado, la respuesta al derrame y el procesamiento de residuos. Justifica tus decisiones con el PNT del centro o, si no existe, con el manual de la OMS enlazado en el apartado 4.
 
-[Escribe aquí tu interpretación técnica.]
+En la práctica, analicé la zona del derrame y señalicé el área para evitar accidentes. Utilicé bata, guantes y calzado cerrado como EPI. Al tratarse de un derrame de agua, absorbí y limpié la zona de forma segura. Finalmente, retiré los materiales utilizados y los gestioné como residuos, siguiendo las normas del centro. En todo momento adapté las medidas al bajo riesgo del derrame.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
-[Escribe aquí tu conclusión.]
+Sí, alcancé el objetivo, porque señalicé la zona, utilicé el EPI adecuado, limpié el derrame y gestioné los residuos correctamente.Limitación: fue una simulación con agua, por lo que no se practicó con material biológico real
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -240,28 +240,28 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué comprobación de la recepción o del derrame consideraste más crítica para evitar una exposición o contaminación, y cómo verificaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   La comprobación más crítica fue asegurar y limpiar completamente la zona del derrame para evitar contaminación o accidentes. Verifiqué que no quedaran restos de agua y que la superficie estuviera limpia y seca antes de continuar con la actividad.
 
 2. **Interpretación:** Ante el derrame simulado, ¿qué indicios utilizaste para decidir la contención, la descontaminación y el circuito de residuos? Explica por qué descartaste otras opciones.
 
-   [Respuesta del alumnado]
+   Como era agua sin riesgo biológico, la absorbí, limpié y sequé la zona. Descarté la descontaminación biológica porque no era necesaria.
 
-3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
+3. **Conclusiones:** ¿Que evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
-   [Respuesta del alumnado]
+   La evidencia más clara fue la correcta eliminación del material usado en el derrame, porque comprobé que se recogió y depositó en el recipiente correspondiente de forma segura.
 
 4. **Aprendizaje y transferencia:** ¿Qué hábito concreto aplicarás en las próximas prácticas de microbiología y cómo ayudará a prevenir errores o riesgos reales?
 
-   [Respuesta del alumnado]
+   En próximas prácticas, comprobaré siempre el material y la zona antes de empezar, para prevenir errores, derrames y posibles contaminaciones.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23/09/2026|
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
+| Agrupamiento | En pareja con Susana |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
