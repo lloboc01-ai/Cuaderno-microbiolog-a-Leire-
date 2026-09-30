@@ -128,12 +128,12 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra ambiental autorizada / preparación comercial segura / vídeo microscópico / otra; descríbela]
+- **Nombre y apellidos:** Leire Lobo Conde
+- **Fecha real de realización:** 23/09/2026
+- **Grupo:** 2°LCB
+- **Pareja de trabajo, si procede:** Trabajo en equipo con Marta
+- **Rol o tarea principal que realizaste:** técnico de laboratorio 
+- **Modalidad realmente realizada:** Muestra ambiental autorizada 
 - **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -142,17 +142,17 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Material y equipo efectivamente utilizados | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Autorización o modalidad segura de la muestra | Agua de pantano |
+| Estado del portaobjetos y cubreobjetos | Estado correcto|
+| Material y equipo efectivamente utilizados | Microscopio óptico, portaobjetos, cubreobjetos, pipeta Pasteur y papel de filtro|
+| Aumento(s) utilizado(s) | 4x, 10x y 40x |
+| Medidas de seguridad aplicadas | Limpieza de mesa y manos Antes y después de la práctica y uso de EPI adecuados|
 
 ### 8.2 Hipótesis u observación inicial
 
 Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Espero encontrar microorganismos, como protozoos y algas, además de restos de materia orgánica. Observaré principalmente su forma, tamaño, movimiento y estructuras con el microscopio.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
