@@ -160,10 +160,10 @@ Espero encontrar microorganismos, como protozoos y algas, además de restos de m
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Preparación limpia y sin burbujas que impidan la lectura | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación limpia y sin burbujas que impidan la lectura | La preparación estaba limpia y sin burbujas importantes. | Sí | Pude observar la muestra correctamente. |
+| Enfoque e iluminación adecuados |Conseguí enfocar la muestra y observar los microorganismos con claridad | Sí  | La imagen se veía nítida y con buena iluminación. |
+| Campo observado de forma sistemática | Observé diferentes zonas de la muestra y encontré varios microorganismos| Sí | Recorrí el campo de observación de manera ordenada.|
+| Movimiento diferenciado de corrientes o artefactos | No observé microorganismos en movimiento|  No  | Ninguna observación |
 
 ### 9.2 Registro de hallazgos
 
