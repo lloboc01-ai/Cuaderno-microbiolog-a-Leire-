@@ -120,7 +120,7 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 - **Equipo de trabajo, si procede:** Trabajo en equipo con Marta Polo y Susana Gordillo
 - **Rol o tarea principal que realizaste:** técnico de laboratorio 
 - **Modalidad realmente realizada:** Preparación completa supervisada
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Medio preparado:** Caldo BHI; Laboratorios Conda S.A lote:608301
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -131,13 +131,18 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | papel de filtro, probeta, pipeta de vidrio, seis tubos, vaso de precipitado, agua destilada, cucharilla, báscula, papel de aluminio, varilla, autoclaves, gradilla y reactivo|
+| Equipos | microondas y autoclave|
+| Reactivos/materiales | caldo infusión cerebro-corazón|
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Restos de caldo BHI y medio de cultivo utilizado | Biológicos o infecciosos |
+| Papel de filtro utilizado | Biológicos o infecciosos |
+| Tubos con restos de medio de cultivo | Biológicos o infecciosos |
+| Pipeta de vidrio utilizada | Punzocortantes |
+| Material de vidrio roto, si lo hubiera | Punzocortantes |
+| Papel de aluminio limpio y otros embalajes limpios | Urbanos o asimilables a los urbanos ||
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
