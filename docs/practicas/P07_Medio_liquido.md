@@ -132,17 +132,12 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 | Elemento | Listado del alumnado |
 |---|---|
 | Instrumental | papel de filtro, probeta, pipeta de vidrio, seis tubos, vaso de precipitado, agua destilada, cucharilla, báscula, papel de aluminio, varilla, autoclaves, gradilla y reactivo|
-| Equipos | microondas y autoclave|
+| Equipos | báscula, microondas y autoclave|
 | Reactivos/materiales | caldo infusión cerebro-corazón|
 
 | Residuo previsto | Tipo |
 |---|---|
-| Restos de caldo BHI y medio de cultivo utilizado | Biológicos o infecciosos |
-| Papel de filtro utilizado | Biológicos o infecciosos |
-| Tubos con restos de medio de cultivo | Biológicos o infecciosos |
-| Pipeta de vidrio utilizada | Punzocortantes |
-| Material de vidrio roto, si lo hubiera | Punzocortantes |
-| Papel de aluminio limpio y otros embalajes limpios | Urbanos o asimilables a los urbanos ||
+| Restos de caldo BHI y medio de cultivo utilizado, papel de filtro utilizado, tubos con restos de medio de cultivo, papel de aluminio limpio y otros embalajes limpios | Urbanos o asimilables a los urbanos | asimilables a urbano |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
