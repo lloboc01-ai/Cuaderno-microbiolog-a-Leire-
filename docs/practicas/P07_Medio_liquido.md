@@ -147,9 +147,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
-| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
-| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Cálculos (si procede) |m=37g/L x 0,05L= 1,85g del BHI|
+| Configuración de equipos (si procede) | Se utiliza una balanza para pesar 1,85 g de BHI y material de dispensación para repartir el medio en seis tubos. Los datos del autoclave (121°C, 15min)|
+| Características del producto o resultado final | Se preparan 6 tubos de 8 mL de BHI, con un volumen total dispensado de 48 mL. Se comprueba el aspecto del BHI, la integridad y el etiquetado de los tubos. Sobrante teórico: 2 mL.|
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
