@@ -163,8 +163,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Hemos pesado 1,85g de BHI en la báscula encima del papel de aluminio
+- **Autoría y modalidad:**  compartida con el grupo 
 
 ### Imagen 2 — Disolución del lote de 50 mL
 
@@ -174,8 +174,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 2. Preparación del BHI con agua destilada; indica cómo se midió el volumen y el aspecto de la disolución.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Preparamos la disolución 50ml de agua destilada caliente y 1,85g de BHI
+- **Autoría y modalidad:** compartida con el grupo 
 
 ### Imagen 3 — Dispensación de 8 mL y seis tubos identificados
 
@@ -185,8 +185,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 3. Medida de una alícuota y conjunto de seis tubos antes del autoclave; indica el volumen dispensado.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Repartimos la disolución de 50 ml y echamos 8 ML en cada tubo
+- **Autoría y modalidad:**  compartida con el grupo 
 
 ### Imagen 4 — Acondicionamiento y registro del ciclo
 
@@ -196,8 +196,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 4. Soporte, cierres o registro del ciclo autorizado; identifica si realizaste u observaste esta fase.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Ponemos todos los tubos en una gradilla y lo introducimos en el autoclave
+- **Autoría y modalidad:** compartida con el grupo 
 
 ### Imagen 5 — Caldo BHI final y estado de control
 
