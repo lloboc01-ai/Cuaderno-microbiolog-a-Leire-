@@ -216,7 +216,7 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias durante la preparación y dispensación del medio BHI.| No procede. Se siguió el procedimiento establecido y se mantuvieron las condiciones de trabajo previstas.| No fue necesaria ninguna medida correctora. Se propone mantener las mismas condiciones de preparación, identificación, dispensación y esterilización.| No|
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
