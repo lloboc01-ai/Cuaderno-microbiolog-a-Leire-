@@ -222,13 +222,13 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 mL, la dispensación de seis tubos de 8 mL y los criterios de homogeneidad, acondicionamiento, identificación y esterilización previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+El lote de BHI parece estar bien preparado, ya que se ha seguido el procedimiento indicado y se han repartido seis tubos con 8 mL cada uno. Aunque se han preparado 50 mL, se han dispensado 48 mL, por lo que se han perdido 2 mL durante el proceso. A simple vista, el medio puede parecer correcto, pero todavía hay que comprobar que está estéril y que no se ha contaminado. Por eso, hasta tener el resultado del control de esterilidad, no podemos asegurar que esté listo para utilizarlo en los cultivos.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿El resultado obtenido y el procedimiento realizado cumplen el objetivo de obtener un medio de cultivo listo para la inoculación y el cultivo de bacterias? Justifica brevemente tu conclusión.
 
-[Escribe aquí tu conclusión.]
+El procedimiento realizado cumple aparentemente el objetivo de preparar y distribuir el medio BHI para el cultivo de bacterias. Se han preparado 50 mL y se han dispensado seis tubos de 8 mL, siguiendo las condiciones de trabajo previstas. Sin embargo, no se puede confirmar que el medio esté listo para su uso hasta completar el control de esterilidad y verificar que se mantienen las condiciones adecuadas de conservación e identificación.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -236,36 +236,36 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento:** ¿Qué precaución específica tomaste al elegir los tapones o cierres de los tubos antes de introducirlos en el autoclave y qué consecuencias de seguridad habría tenido cerrarlos herméticamente?
 
-   [Respuesta del alumnado]
+   Dejamos los tapones ligeramente flojos para permitir la entrada del vapor. Si los hubieramos cerrado herméticamente, podría haberse acumulado presión y haber roto los tubos.
 
 **2. Interpretación:** El procedimiento indica que no se debe añadir corrector de pH, pero que podría exigirse su comprobación. Si tuvieras que medir el pH del BHI reconstituido, ¿en qué momento exacto del procedimiento descrito lo harías y por qué sería un error medirlo *después* de que los tubos salgan del autoclave?
 
-   [Respuesta del alumnado]
+   Mediría el pH después de preparar el medio y antes de esterilizarlo, para comprobar que es correcto antes de que el calor pueda modificarlo.
 
 **3. Conclusiones:** Si dentro de unos días observaras que uno de los tubos almacenados presenta turbidez sin haber sido inoculado por nadie, ¿qué fallo en el procedimiento, material o equipo deducirías que ha ocurrido?
 
-   [Respuesta del alumnado]
+   La turbidez indicaría una posible contaminación, causada por un fallo en la esterilización o durante la manipulación. No utilizaría ese tubo y revisaría el procedimiento.
 
 **4. Aprendizaje y transferencia:** Imagina que en un laboratorio real te piden escalar esta preparación para hacer 150 tubos de 8 mL de BHI. ¿Cómo modificarías tus cálculos iniciales de masa y volumen total (incluyendo un margen de seguridad proporcional)?
 
-   [Respuesta del alumnado]
+Para preparar 150 tubos de 8 mL necesitaría 1200 mL de medio. Si la proporción es de 37 g de BHI por litro, necesitaría 44,4 g de compuesto para preparar los 1,2 L.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P07` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 07/10/2026|
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, dosis y preparación | [BHI: fabricante/referencia, dosis de etiqueta, masa calculada/pesada y preparación de 50 mL] |
-| Dispensación y esterilización | [Seis tubos: volumen dispensado, identificación, ciclo y controles; indica incidencias y modalidad] |
-| Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Completa] |
+| Agrupamiento | Trabajo en equipo con Marta Polo y Susana Gordillo|
+| Medio, dosis y preparación | [BHI: 37 g/L. Para 50 mL se necesitan 1,85 g de BHI. |
+| Dispensación y esterilización | Se prepararon seis tubos con 8 mL cada uno. Se identificaron y se esterilizaron siguiendo el procedimiento establecido. |
+| Componentes, lotes y caducidades relevantes | BHI en polvo, agua destilada y tubos de cultivo|
+| Controles | Comprobar el aspecto del medio, los volúmenes y el resultado del control de esterilidad.|
+| Resultado | Medio BHI preparado y repartido en seis tubos. La esterilidad queda pendiente de confirmación |
+| Interpretación | La preparación parece correcta, pero hay que confirmar la esterilidad antes de utilizar el medio. |
+| Incidencias y acciones correctoras | No se detectaron incidencias durante la preparación y dispensación. |
+| Ruta de residuos y conservación | Gestionamos los residuos como asimilables urbanos|
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
