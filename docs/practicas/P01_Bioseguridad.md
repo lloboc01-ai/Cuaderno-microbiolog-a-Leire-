@@ -263,12 +263,14 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | En pareja con Susana |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa]
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Controles | En la práctica se comprobó que no existen zonas señalizadas ni un área adecuada para la recepción e identificación de muestras, por lo que estos criterios no se consideran válidos. Sin embargo, la simulación del derrame se realizó correctamente, ya que se contuvo, limpió y descontaminó la zona afectada. Además, los residuos se recogieron y separaron adecuadamente, y la incidencia quedó registrada y comunicada al finalizar la práctica. |
+| Resultado | detectar problemas en la recepción de muestras, saber cuándo hay que aislarlas, actuar correctamente ante un derrame y gestionar los residuos. Además, sé dejar registrado lo que se ha hecho y comunicarlo de forma segura.
+|
+| Interpretación | Señalicé la zona del derrame, utilicé los EPI adecuados, limpié el agua de forma segura y gestioné los residuos según las normas del centro, adaptando las medidas al bajo riesgo del incidente. |
+| Incidencias y acciones correctoras | Si se detectaron incidencias, Falta de materiales, de señalización y de área de recepción de muestras. Cómo solución obtener las cosas que faltan|
+|
+| Ruta de residuos aplicada | Hemos usado la ruta de residuos asímilables a urbanos
+| Estado de entrega | Entregado|
 
 ---
 Mostrando P01_Bioseguridad.md.
