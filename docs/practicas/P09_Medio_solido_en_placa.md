@@ -154,25 +154,25 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ![Pesada y transferencia del medio desecado](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
 
-- **Pie de foto:** [Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente]
-- **Dato de trazabilidad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Pie de foto:** Hemos medido 2,87 g de Agar nutritivo en polvo
+- **Dato de trazabilidad o calidad que demuestra:** 111131
+- **Autoría y origen:**  compartida con mi equipo 
 
 ### Imagen 2 — Calentamiento del medio tras la mezcla
 
 ![Calentamiento del medio tras la mezcla](../assets/P09/calentamiento_del_medio_tras_la_mezcla_02.jpg)
 
-- **Pie de foto:** [Recipiente con el medio mezclado durante el calentamiento hasta ebullición]
-- **Control o decisión técnica que demuestra:** [Disolución del agar y desaparición de grumos; indica el equipo utilizado]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** Botella de vidrio adecuada para el autoclave con tapón 
+- **Control o decisión técnica que demuestra:** Disolución del agar y desaparición de grumos, utilizando la placa calefactora 
+- **Autoría y origen:** En equipo 
 
 ### Imagen 3 — Recipiente dentro del autoclave
 
 ![Botella o matraz con el medio en el interior del autoclave](../assets/P09/recipiente_en_el_autoclave_03.jpg)
 
-- **Pie de foto:** [Botella o matraz autoclavable con el medio, colocado dentro del autoclave antes del ciclo]
-- **Dato de trazabilidad o seguridad que demuestra:** [Identificación del recipiente y acondicionamiento para esterilización; no fotografíes el equipo abierto durante el ciclo]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** Botella  autoclavable con el medio, colocado dentro del autoclave antes del ciclo
+- **Dato de trazabilidad o seguridad que demuestra:** Botella autoclavable y el autoclave a 121°C durante 15 min
+- **Autoría y origen:** En equipo 
 
 ### Imagen 4 — Dispensación aséptica en placas
 
