@@ -132,7 +132,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Pipetas Pasteur y papel de filtro| Urbanos o asimilables a los urbanos|
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -142,9 +142,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula: g/L × 0,125 L = g de polvo. Anota fuente, operación y masa; registra por separado el agua indicada, sin inventar la dosis.] |
-| Configuración de equipos (si procede) | [Identifica balanza, calentamiento/agitación y autoclave; anota solo parámetros reales y el ciclo autorizado. No uses valores del protocolo adjunto sin confirmación local.] |
-| Características del producto o resultado final | [Describe volumen preparado (objetivo: 125 mL), placas obtenidas (referencia: unas seis), aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
+| Cálculos (si procede) | 23 g/L × 0,125 L = 2,87 g de polvo. |
+| Configuración de equipos (si procede) |  balanza: digital escale, placa calefactora: ibx instruments y autoclave: presoclave |
+| Características del producto o resultado final | Hemos preparado 125 mL de agua destilada y 2,87g de Agar nutritivo, placas obtenidas: seis, aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
