@@ -144,7 +144,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 |---|---|
 | Cálculos (si procede) | 23 g/L × 0,125 L = 2,87 g de polvo. |
 | Configuración de equipos (si procede) |  balanza: digital escale, placa calefactora: ibx instruments y autoclave: presoclave |
-| Características del producto o resultado final | Hemos preparado 125 mL de agua destilada y 2,87g de Agar nutritivo, placas obtenidas: seis, aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
+| Características del producto o resultado final | Hemos preparado 125 mL de agua destilada y 2,87g de Agar nutritivo, placas obtenidas: cinco, aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -178,15 +178,15 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ![Incorporación aséptica del medio esterilizado a las placas](../assets/P09/dispensacion_aseptica_en_placas_04.jpg)
 
-- **Pie de foto:** [La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica]
-- **Zona autorizada y control aplicado:** [Cabina de seguridad biológica o entorno de la llama; explica la técnica aséptica observada]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica
+- **Zona autorizada y control aplicado:** entorno de la llama
+- **Autoría y origen:** En equipo 
 
 ### Imagen 5 — Placas finales etiquetadas o control de calidad
 
 ![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_05.jpg)
 
-- **Pie de foto:** [Aspecto, grosor, rotulado o control de las placas]
+- **Pie de foto:** Se puede observar el aspecto, grosor, rotulado o control de las placas
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
 - **Autoría y origen:** [Completa]
 
@@ -194,19 +194,19 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias importantes durante la preparación del medio. | Se siguieron las instrucciones de preparación y manipulación del agar nutritivo. | Mantener una técnica aséptica, comprobar el material y respetar las indicaciones del protocolo.|  No|
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+El agar nutritivo debe presentar una solidificación adecuada, una superficie homogénea y ausencia de contaminación visible. También debe estar correctamente identificado y haberse preparado con técnicas asépticas. Sin embargo, su buen aspecto no garantiza la esterilidad, por lo que es necesario realizar los controles correspondientes antes de utilizarlo.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento y el medio obtenido permiten considerar alcanzado el objetivo de preparar 125 mL de Agar nutritivo en placa? Justifica tu valoración relacionándola con el resultado y señala cualquier limitación que condicione su uso.
 
-[Escribe aquí tu conclusión.]
+Se ha cumplido el objetivo de preparar 125 mL de agar nutritivo, obteniendo un medio sólido y homogéneo. Para confirmar que es apto para su uso, es necesario comprobar su esterilidad y que no presente contaminación.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -214,36 +214,36 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión sobre la fórmula, el agente gelificante o la dispensación consideras más crítica para obtener placas de calidad y cómo comprobaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   La decisión más crítica fue respetar las proporciones de agar y medio nutritivo, ya que determinan la correcta solidificación. Se comprobó verificando las cantidades y observando que el medio solidificó adecuadamente.
 
 2. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
-   [Respuesta del alumnado]
+   La condensación excesiva indica que el vapor de agua se ha acumulado en la tapa al enfriarse. Las gotas pueden caer sobre el agar, extender el inóculo y dificultar el aislamiento de colonias, alterando los resultados.
 
 3. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
-   [Respuesta del alumnado]
+   El etiquetado debe incluir el nombre del medio, la fecha de preparación, el número de lote, la caducidad y el identificador de la práctica para garantizar su trazabilidad.
 
 4. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
-   [Respuesta del alumnado]
+   El manejo estéril reduce el riesgo de contaminación y permite realizar siembras más precisas, fiables y obtener resultados válidos.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P09` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 15/10/2026|
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, fórmula, volumen y número de placas | [Agar nutritivo comercial; fabricante/dosis según etiqueta; 125 mL objetivo; número real de placas] |
-| Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante, lote, caducidad y dosis consultada] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Según PNT local; completa modalidad y ubicación, sin inferir condiciones] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | En equipo|
+| Medio, fórmula, volumen y número de placas | Agar nutritivo comercial: 23g/L en 125mL de agua destilada y hemos obtenido 5 placas|
+| Componentes, lotes y caducidades relevantes | Agar nutritivo en polvo, comerciante: laboratorio Conda S.A, fecha de caducidad 2024/11|
+| Controles | Comprobar el aspecto, la solidificación y la homogeneidad del medio. La esterilidad debe confirmarse mediante el control correspondiente. |
+| Resultado | Se prepararon 5 placas de agar nutritivo con el volumen previsto de medio|
+| Interpretación | El medio debe presentar una superficie homogénea y una solidificación adecuada, sin contaminación visible. Su aptitud para el uso requiere comprobar la esterilidad|
+| Incidencias y acciones correctoras | No se registran incidencias importantes. Mantener la técnica aséptica y revisar las placas antes de utilizarlas. |
+| Ruta de residuos y conservación | Eliminar los residuos según el procedimiento normalizado de trabajo (PNT) del laboratorio. Conservar las placas según las instrucciones del fabricante y el protocolo del centro.|
+| Estado de entrega | pendiente de revisión  |
 
 ---
 
