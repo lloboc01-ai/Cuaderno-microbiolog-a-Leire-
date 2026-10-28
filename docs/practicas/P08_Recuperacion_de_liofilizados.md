@@ -121,14 +121,14 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad y ruta realmente realizadas:** [Ejecución real supervisada, ruta A o B / demostración parcial / práctica detenida antes de abrir; especifica]
+- **Nombre y apellidos:** Leire Lobo Conde 
+- **Fecha real de realización:** 28/10/2026
+- **Grupo:** 2°LCB
+- **Pareja o equipo, si procede:** En equipo con Marta Polo y Susana Gordillo 
+- **Rol o tarea principal que realizaste:** técnica de laboratorio 
+- **Modalidad y ruta realmente realizadas:**  ruta B
 - **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
-- **Responsable que autorizó y supervisó la ejecución:** [Completa]
+- **Responsable que autorizó y supervisó la ejecución:** Tutor Antonio 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -138,13 +138,13 @@ Enumera los recursos reales: incluye el tubo de BHI de 8 mL de P07 y el material
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Asa de siembra estéril,pinzas estériles, cepas, 4 tubos solución BHI, vaso de precipitado con alcohol|
+| Equipos | mechero bunsen|
+| Reactivos/materiales | cepas |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| No hemos generado residuos|
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -154,8 +154,8 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Identifica el sistema de contención y la incubadora; anota los parámetros reales y su fuente: ficha de cepa o protocolo local] |
+| Cálculos (si procede) | no procede|
+| Configuración de equipos (si procede) | no procede|
 | Características del producto o resultado final | [Indica la ruta A/B, el crecimiento observado y, para B, cómo quedó el remanente y dónde se almacenó; anota tiempos y límites. No afirmes pureza sin control] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
