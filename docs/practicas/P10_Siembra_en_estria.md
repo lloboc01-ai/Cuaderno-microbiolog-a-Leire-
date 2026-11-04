@@ -104,13 +104,13 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha de ejecución:** [dd/mm/aaaa]
+- **Nombre y apellidos:** Leire Lobo Conde 
+- **Fecha de ejecución:** 04/11/2026
 - **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
+- **Grupo:** 2°LCB
+- **Pareja de trabajo, si procede:** trabajo en equipo con Marta y Susana
+- **Rol o tarea principal que realizaste:** técnico de laboratorio 
+- **Modalidad realmente realizada:** Ejecución real supervisada; por parejas
 - **Código autorizado del cultivo de trabajo de P08 y de la placa:** [Completa sin incluir datos sensibles]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -121,13 +121,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Placa de Petri, asa de siembra, tubos de BHI con la cepa inoculada  y marcador para identificar la placa. |
+| Equipos | mechero bunsen |
+| Reactivos/materiales | Cepa microbiana previamente preparada, medio de cultivo sólido en placa de Petri, guantes y material de protección individual.|
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| No aplica | 
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -137,9 +137,9 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Cálculos (si procede) | No aplica, ya que la práctica consistió en realizar la siembra de una cepa previamente preparada|
+| Configuración de equipos (si procede) | no procede |
+| Características del producto o resultado final | Se realizó la siembra de una cepa microbiana previamente preparada sobre un medio de cultivo sólido en una placa de Petri. Se identificó la placa para su seguimiento. El crecimiento microbiano y las características de las colonias deberán registrarse tras la observación de la placa, sin anticipar resultados que todavía no se hayan comprobado.|
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
