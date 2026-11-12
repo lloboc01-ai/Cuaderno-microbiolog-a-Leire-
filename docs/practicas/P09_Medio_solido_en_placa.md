@@ -243,7 +243,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Interpretación | El medio debe presentar una superficie homogénea y una solidificación adecuada, sin contaminación visible. Su aptitud para el uso requiere comprobar la esterilidad|
 | Incidencias y acciones correctoras | No se registran incidencias importantes. Mantener la técnica aséptica y revisar las placas antes de utilizarlas. |
 | Ruta de residuos y conservación | Eliminar los residuos según el procedimiento normalizado de trabajo (PNT) del laboratorio. Conservar las placas según las instrucciones del fabricante y el protocolo del centro.|
-| Estado de entrega | pendiente de revisión  |
+| Estado de entrega | Etregado |
 
 ---
 
