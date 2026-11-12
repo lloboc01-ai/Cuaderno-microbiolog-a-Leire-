@@ -157,17 +157,18 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| FDS y estado del reactivo | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
+| Autorización o modalidad segura de la muestra | Muestra ambiental de agua del pantano, manipulada con precaución y sin contacto directo. |
+| FDS y estado del reactivo | Azul de metileno identificado, correctamente etiquetado y utilizado siguiendo las indicaciones de seguridad. |
+| EPI y medidas de seguridad aplicadas | Bata, guantes y gafas de protección. Lavado de manos después de la práctica. |
+| Estado del portaobjetos y cubreobjetos | Portaobjetos y cubreobjetos limpios, secos y sin roturas. |
+| Aumento(s) utilizado(s) | 100x y 400x para observar los microorganismos de la muestra. |
 
 ### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis.]
+Se espera que el azul de metileno tiña los microorganismos del agua del pantano de color azul, aumentando el contraste y facilitando su observación e identificación al microscopio.
+
 
 ## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -175,35 +176,35 @@ Antes de observar, indica qué diferencia esperas encontrar entre la preparació
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | Azul de metileno correctamente identificado. | Sí | El colorante es adecuado para la tinción. |
+| Preparación sin burbujas o artefactos limitantes | Preparación sin burbujas importantes. | Sí | Permite observar la muestra correctamente. |
+| Contraste suficiente para la observación | Microorganismos y partículas con coloración azulada. | Sí | El tinte mejora la visibilidad. |
+| Enfoque e iluminación adecuados | Imagen enfocada y bien iluminada. | Sí | Se distinguen mejor las estructuras. |
+| Gestión correcta de residuos y limpieza | Material limpiado y residuos eliminados correctamente. | Sí | Se mantienen las normas de seguridad. |
 
 ### 9.2 Registro de hallazgos
 
 | Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
 |---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] |
+| Partículas de materia orgánica | Restos teñidos de azul. | Formas y tamaños diferentes. | No se identifican todos los restos. |
+| Posibles microorganismos | Estructuras azuladas. | Tamaños y formas celulares. | Difícil identificar algunas especies. |
+| Microorganismos y sedimentos | Diferentes tonalidades de azul. | Presencia de partículas y posibles células. | El tinte dificulta observar el movimiento. |
+
 
 ## 10. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-| Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital directa / preparación concentrada teñida | Interpretación de la diferencia |
+  | Aspecto comparado | P02 – Observación en fresco | P03 – Tinción con azul de metileno | Interpretación de la diferencia |
 |---|---|---|---|
-| Contraste | [Completa] | [Completa] | [Completa] |
-| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
-| Movimiento observado (solo modalidad sin centrifugación) | [Completa] | [Completa] | [Completa] |
-| Facilidad de observación | [Completa] | [Completa] | [Completa] |
-| Limitaciones | [Completa] | [Completa] | [Completa] |
-
+| Contraste | Poco contraste y colores naturales. | Mayor contraste y coloración azulada. | El colorante facilita la visualización. |
+| Morfología o detalles visibles | Se observan formas y tamaños naturales. | Se distinguen mejor algunas estructuras celulares. | La tinción permite apreciar más detalles. |
+| Movimiento observado (solo modalidad sin centrifugación) | Algunos microorganismos pueden moverse. | No se aprecia movimiento por la tinción. | El colorante puede alterar o detener la movilidad. |
+| Facilidad de observación | Resulta más difícil distinguir algunos microorganismos. | Resulta más fácil observar las estructuras teñidas. | El azul de metileno mejora el contraste. |
+| Limitaciones | Poco contraste y dificultad para identificar microorganismos. | Puede alterar las células y no permite observar su movimiento natural. | Ambas preparaciones tienen limitaciones. |
 ### Resultado principal
 
 Resume qué aportó la tinción a la observación y qué información debe interpretarse con cautela. Indica expresamente si el resultado procede de una ejecución propia, una preparación docente o material audiovisual.
 
-[Escribe aquí el resultado principal.]
+La tinción con azul de metileno permitió aumentar el contraste y facilitar la observación de posibles microorganismos presentes en el agua del pantano. Se pudieron distinguir mejor algunas formas y estructuras celulares. Sin embargo, la tinción puede alterar su aspecto y no permite observar su movimiento natural. Resultado basado en una práctica propia.
 
 ## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -252,4 +253,78 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 - **Archivo previsto:** `../assets/P03/05_campo_tenido_con_centrifugacion.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación teñida tras centrifugación.
-- **Pie de foto:** [Describe el campo, identific
+- **Pie de foto:** [Describe el campo, identifica la fracción observada y registra el aumento.]
+- **Rasgo observado y limitación:** [Completa; no infieras movilidad ni viabilidad tras la concentración.]
+- **Autoría:** [Propia / compartida con tu pareja]
+- **Modalidad no realizada:** [Escribe «No aplica» y explica el motivo, si no se realizó esta preparación.]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+
+| Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
+|---|---|---|---|
+| Dificultad para distinguir algunos microorganismos | Poco contraste o exceso de colorante. | Ajustar la iluminación y enfocar mejor. | Sí, dificultó la observación. |
+
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+
+Interpreta los resultados de la tinción usando los controles de calidad, las observaciones y la comparación con P02. Explica qué información se hizo más visible, qué posible artefacto o limitación introdujo el colorante y por qué la tinción no permite por sí sola una identificación definitiva.
+
+La tinción con azul de metileno permitió aumentar el contraste y observar mejor las formas de los posibles microorganismos del agua del pantano. Sin embargo, el colorante puede alterar su aspecto y eliminar su movimiento natural. La tinción por sí sola no permite identificar las especies, ya que sería necesario realizar otras pruebas.
+
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+
+Indica si alcanzaste el objetivo de preparar, observar y comparar la tinción vital directa con azul de metileno. Si realizaste la ruta centrifugada, describe por separado la preparación concentrada y teñida, y menciona sus límites. Sustenta tu conclusión con evidencias concretas.
+
+Se cumplió el objetivo de preparar y observar una muestra de agua del pantano teñida con azul de metileno. La tinción permitió mejorar el contraste y distinguir mejor algunas estructuras. Se comprobó que esta técnica facilita la observación microscópica, aunque no permite identificar con seguridad los microorganismos presentes.
+
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+
+Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
+
+1. **Procedimiento:** Al preparar o recibir la solución de azul de metileno al 0,5 % p/v, ¿qué comprobaste sobre la pesada, el volumen final de 100 mL, la etiqueta y la FDS? Si no la preparaste, indica quién proporcionó la solución y qué verificaste antes de usarla.
+
+   Utilizamos azul de metileno al 0,5 % para teñir una muestra de agua de pantano. Comprobamos la etiqueta, la concentración y las normas de seguridad del colorante antes de utilizarlo.
+
+2. **Interpretación:** Compara los campos teñidos directo y tras centrifugación (imágenes 3 y 5), si realizaste ambas modalidades. ¿Qué diferencias de contraste o morfología observaste? Contrástalas con el anexo sin convertir la semejanza en una identificación confirmada; no infieras movilidad ni viabilidad tras centrifugar.
+
+   El azul de metileno aumentó el contraste y permitió observar mejor las formas y estructuras de los microorganismos y partículas presentes en el agua.
+  
+
+3. **Conclusiones:** Comparando la misma muestra en fresco en P02 con la preparación teñida directa de P03, ¿qué información aporta cada modalidad y cuál permitió describir mejor los rasgos observados? Si también centrifugaste, explica qué añadió esa preparación y qué limitación tuvo. Sustenta la conclusión con tus evidencias reales.
+
+   La muestra en fresco permitió observar el agua en su estado natural, mientras que la teñida facilitó distinguir mejor algunas estructuras gracias al contraste del colorante.
+
+4. **Aprendizaje y transferencia:** ¿En qué situación elegirías observar la muestra sin tinción y sin centrifugar, sin tinción y centrifugada, teñida y sin centrifugar, o teñida y centrifugada? Justifica cada elección según el objetivo de observación y las limitaciones de la muestra; en la preparación centrifugada no infieras movilidad ni viabilidad.
+
+   Utilizaría la muestra sin teñir para observar los microorganismos en su estado natural y la teñida para apreciar mejor sus estructuras. La centrifugación permitiría concentrar el material, pero no demostraría su movilidad ni viabilidad.
+
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+
+| Campo | Registro del alumnado |
+|---|---|
+| Identificador de práctica | `P03` |
+| Fecha | 1/10/2026|
+| UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
+| Agrupamiento | pareja con Marta Polo |
+| Modalidad y origen de la muestra o evidencia | agua de estanco|
+| Reactivo y lote o referencia | [Completa] |
+| Controles | [Resume o enlaza al apartado 9.1] |
+| Resultado | [Resume o enlaza al apartado 10] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Ruta de residuos aplicada | [Completa] |
+| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+
+## Referencia técnica
+
+- Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica (SEIMC). *Procedimientos en Microbiología Clínica, n.º 30: Diagnóstico microbiológico de las infecciones gastrointestinales*, 2008, PNT-GE-03. [PDF](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia30.pdf) (consultado el 26/09/2026). Referencia de examen parasitológico fecal; no valida la muestra de agua ni la centrifugación docente descrita en esta ficha.
+
+---
+
+## Anexo. Láminas de organismos microscópicos y microfauna de agua dulce
+
+Las láminas reúnen ejemplos de organismos que pueden aparecer en muestras de agua dulce: eucariotas unicelulares —rizópodos, flagelados, ciliados, algas unicelulares y diatomeas— y formas pluricelulares microscópicas o de pequeño tamaño —cladóceros, copépodos, rotíferos y algas pluricelulares—. Los dibujos y nombres sirven para comparar rasgos morfológicos y proponer identificaciones orientativas; la presencia depende de la muestra y no confirma por sí sola lo observado. Las capturas fueron proporcionadas como material docente y no muestran los datos de autoría ni la publicación original.
+
+![Láminas de referencia con categorías, dibujos y nombres de organismos unicelulares y pluricelulares de agua dulce](../assets/P02/anexo_microorganismos.jpg)
+
+*Figura. Láminas docentes de consulta morfológica; no son fotografías de la muestra examinada ni permiten confirmar una identificación.*
