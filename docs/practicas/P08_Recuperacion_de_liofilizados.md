@@ -214,19 +214,19 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias| [Completa] | [Completa] | [Sí / No; explica] |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la trazabilidad y el resultado del tubo de BHI a partir de los registros y controles disponibles. Distingue crecimiento observado, viabilidad confirmada y pureza; explica cómo una desviación, ausencia de crecimiento o dato no disponible cambia la decisión profesional.
 
-[Escribe aquí tu interpretación técnica.]
+Tras la incubación a 37 °C durante 24 h, se observó turbidez homogénea en los tubos (crecimiento y viabilidad confirmada) y ausencia de turbidez en el control negativo. La pureza no se asegura solo en medio líquido, requiriendo aislamiento en placa. Ante desviaciones o pérdida de trazabilidad, la decisión es invalidar el lote.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento seguido y el resultado obtenido permitieron alcanzar el objetivo de recuperar la cepa en BHI líquido? Si aplicaste B, valora además si el remanente puede considerarse una reserva fiable. Justifica ambas valoraciones.
 
-[Escribe aquí tu conclusión.]
+El procedimiento no permitió alcanzar con éxito el objetivo de recuperar las cepas, ya que el crecimiento en el caldo BHI fue casi nulo. Esto demuestra que el liofilizado pudo perder viabilidad o que falló algún parámetro en la rehidratación.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -234,27 +234,27 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa? Si aplicaste B, ¿cómo evitaste contaminar o dispersar el polvo?
 
-   [Respuesta del alumnado]
+   Antes de abrir la ampolla comprobé su identificación, estado y que el caldo BHI fuera adecuado para la cepa. También utilicé material estéril y mantuve las condiciones de asepsia para evitar contaminaciones.
 
 2. **Interpretación:** ¿Qué evidencias permiten valorar crecimiento, viabilidad y pureza, y qué limitación tiene observar solo el aspecto del caldo?
 
-   [Respuesta del alumnado]
+   El crecimiento se observa por la turbidez del caldo BHI. La viabilidad indica que los microorganismos están vivos y pueden crecer. Para comprobar la pureza hacen falta pruebas adicionales, ya que la turbidez por sí sola no descarta contaminaciones.
 
 3. **Conclusiones:** ¿Qué decisión profesional tomarías con el resultado y los controles disponibles: continuar, repetir, detener o escalar? Explica el criterio aplicado.
 
-   [Respuesta del alumnado]
+   Decidiría continuar si el crecimiento y los controles son correctos. Si aparecen resultados extraños o contaminación, detendría la práctica y repetiría el procedimiento siguiendo las indicaciones del profesor.
 
-4. **Aprendizaje y transferencia:** ¿Qué principio de trazabilidad o bioseguridad aplicarás cuando trabajes con material conservado, medios de cultivo o resultados de identificación en prácticas posteriores?
+5. **Aprendizaje y transferencia:** ¿Qué principio de trazabilidad o bioseguridad aplicarás cuando trabajes con material conservado, medios de cultivo o resultados de identificación en prácticas posteriores?
 
-   [Respuesta del alumnado]
+   En futuras prácticas identificaré correctamente las muestras, registraré los resultados y utilizaré material estéril y equipos de protección para evitar contaminaciones y garantizar la seguridad.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P08` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 28/10/2026|
 | UD / RA / CE | `UD3 / RA03-RA04 / CE03.d–CE03.h; CE04.a–CE04.e` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Modalidad y origen de la evidencia | [Completa] |
-| Referencia autorizada de protocolo o caso | [Completa] |
+| Agrupamiento | pareja con Marta Polo y Susana Gordillo|
+| Modalidad y origen de la evidencia | Práctica de laboratorio de inoculación de cepas en caldo BHI. Observación directa y registro en el cuaderno de prácticas. |
+| Referencia autorizada de protocolo o caso | Protocolo de prácticas de laboratorio proporcionado por el profesor para la inoculación de cepas en medio BHI. |
