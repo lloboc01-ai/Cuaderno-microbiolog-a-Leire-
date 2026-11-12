@@ -266,7 +266,7 @@ Para preparar 150 tubos de 8 mL necesitaría 1200 mL de medio. Si la proporción
 | Interpretación | La preparación parece correcta, pero hay que confirmar la esterilidad antes de utilizar el medio. |
 | Incidencias y acciones correctoras | No se detectaron incidencias durante la preparación y dispensación. |
 | Ruta de residuos y conservación | Gestionamos los residuos como asimilables urbanos|
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | entregado |
 
 ---
 Mostrando P07_Medio_liquido.md.
