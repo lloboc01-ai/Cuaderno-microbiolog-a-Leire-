@@ -173,19 +173,19 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias. | [Completa] | [Completa] | [Sí / No; explica] |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la calidad de la técnica y el patrón de crecimiento observado. Explica qué controles apoyan la lectura, qué incidencia podría explicar un resultado no esperado y por qué una descripción macroscópica no permite identificar de forma definitiva un microorganismo ni declarar pureza sin controles posteriores.
 
-[Escribe aquí tu interpretación técnica.]
+La siembra en estría simple se realizó siguiendo el procedimiento, pero no se observó crecimiento de colonias en el medio. Esto puede deberse a que los microorganismos no fueran viables o a algún error durante la siembra o conservación. Sin crecimiento no se puede valorar la morfología, identificar el microorganismo ni confirmar la pureza del cultivo.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Valora si alcanzaste el objetivo de realizar una siembra en estría simple o continua de forma segura. Relaciona razonadamente el objetivo con el procedimiento y el resultado registrado; identifica cualquier limitación o resultado pendiente.
 
-[Escribe aquí tu conclusión.]
+Se realizó la técnica de siembra en estría simple siguiendo las normas de asepsia, pero no se alcanzó el resultado esperado porque no hubo crecimiento de colonias. Sería necesario revisar el procedimiento y repetir la práctica si el profesor lo considera oportuno.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -193,35 +193,35 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento.** ¿Por qué es crítico el tiempo de enfriamiento del asa de siembra tras esterilizarla a la llama, y cómo te aseguraste de hacerlo correctamente sin comprometer la zona de esterilidad?
 
-[Respuesta del alumnado]
+Es importante dejar enfriar el asa después de esterilizarla para evitar destruir los microorganismos. Esperé antes de recoger la muestra y evité tocar superficies no estériles.
 
 **2. Interpretación.** Si aparecen colonias con morfologías claramente distintas a lo largo de las estrías, ¿qué evidencia visual te ayudaría a discernir si el cultivo líquido original era mixto o si hubo una contaminación ambiental durante la apertura de la placa?
 
-[Respuesta del alumnado]
+Como no aparecieron colonias, no se puede comparar su forma, tamaño o aspecto. Por tanto, no es posible saber si el cultivo original era puro o mixto ni descartar una contaminación.
 
 **3. Conclusiones.** Basándote en la presencia, cantidad y separación de las colonias aisladas, ¿qué puedes concluir de forma definitiva sobre la viabilidad y la concentración del cultivo líquido de partida?
 
-[Respuesta del alumnado]
+No se puede confirmar el crecimiento ni la viabilidad de los microorganismos porque no aparecieron colonias. Sería necesario revisar las condiciones de la práctica y repetirla para obtener resultados fiables.
 
 **4. Aprendizaje y transferencia.** Si tuvieras que redactar el Procedimiento Normalizado de Trabajo (PNT) para enseñar esta siembra continua a un técnico recién contratado, ¿qué «vicio» procedimental o error de postura destacarías como el más urgente de prevenir desde el primer intento?
 
-[Respuesta del alumnado]
+En futuras prácticas tendré especial cuidado con la esterilización y el enfriamiento del asa, la manipulación del material y el mantenimiento de la asepsia para evitar errores y conseguir resultados fiables.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P10` |
-| Fecha de ejecución / lectura | [Completa] |
+| Fecha de ejecución / lectura | 4/11/2026|
 | UD / RA / CE | `UD3 / RA04 / CE04.a–CE04.e` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen del material o evidencia | [Completa] |
-| Placa, medio y referencia autorizada | [Completa] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y estado final de la placa | [Completa] |
+| Agrupamiento | en equipo con marta y susana |
+| Modalidad y origen del material o evidencia | Práctica presencial de laboratorio. Observación directa de la siembra en estría simple.|
+| Placa, medio y referencia autorizada | Placa de Petri con medio de cultivo agar, según el material proporcionado en la práctica.|
+| Controles | Se mantuvieron las medidas de asepsia durante la manipulación. |
+| Resultado | No se observó crecimiento de colonias en la placa.|
+| Interpretación | No hubo crecimiento visible, por lo que no se puede confirmar la viabilidad ni la pureza del cultivo. |
+| Incidencias, medidas y escalado | Se registró la ausencia de crecimiento. Se recomienda revisar el procedimiento y comunicarlo al profesor. |
+| Ruta de residuos y estado final de la placa | Placa depositada en el contenedor de residuos biológicos indicado por el laboratorio. |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ## 16. Fuentes técnicas y documentales
