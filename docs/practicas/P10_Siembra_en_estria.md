@@ -222,7 +222,7 @@ En futuras prácticas tendré especial cuidado con la esterilización y el enfri
 | Interpretación | No hubo crecimiento visible, por lo que no se puede confirmar la viabilidad ni la pureza del cultivo. |
 | Incidencias, medidas y escalado | Se registró la ausencia de crecimiento. Se recomienda revisar el procedimiento y comunicarlo al profesor. |
 | Ruta de residuos y estado final de la placa | Placa depositada en el contenedor de residuos biológicos indicado por el laboratorio. |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado|
 
 ## 16. Fuentes técnicas y documentales
 
