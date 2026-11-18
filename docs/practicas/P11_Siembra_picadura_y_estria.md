@@ -92,11 +92,11 @@ Completa antes de empezar:
 
 | Verificación | Sí / No / No aplica | Observación o referencia |
 | --- | --- | --- |
-| La sesión se realiza de forma real y supervisada | [ ] | [Escribe aquí] |
-| Dispongo de los EPI requeridos y del puesto preparado | [ ] | [Escribe aquí] |
-| He identificado los tres tubos, sus medios y códigos de trazabilidad | [ ] | [Escribe aquí] |
-| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | [ ] | [Escribe aquí] |
-| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | [ ] | [Escribe aquí] |
+| La sesión se realiza de forma real y supervisada | si  | Práctica realizada bajo supervisión del profesor. |
+| Dispongo de los EPI requeridos y del puesto preparado | si | Bata, guantes y material preparado. |
+| He identificado los tres tubos, sus medios y códigos de trazabilidad | si | Los tres tubos están identificados correctamente. |
+| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | si | Cultivo previo y etiquetas revisados|
+| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | si| Se han seguido las normas de seguridad y gestión de residuos. |
 
 ---
 
@@ -113,7 +113,7 @@ Antes de realizar o revisar la actividad, responde:
 
 > ¿Qué diferencias esperas entre los tres patrones de siembra y qué información adicional necesitarías para interpretar los crecimientos con seguridad?
 
-[Escribe aquí. Relaciona la predicción con las tres trayectorias de siembra.]
+Se espera que en los tubos A y C el crecimiento se observe sobre la superficie del agar inclinado, siguiendo el recorrido de la siembra. En el tubo B, el crecimiento aparecerá a lo largo de la línea de punción en el agar recto. Para interpretar los resultados con seguridad sería necesario conocer las características de la bacteria, las condiciones de incubación y realizar pruebas de identificación y controles.
 
 ---
 
@@ -197,7 +197,7 @@ En los tres procedimientos, mantén la manipulación aséptica y la apertura/cie
 
 > Indica la medida de seguridad que consideras más importante para esta actividad y explica brevemente por qué.
 
-[Escribe aquí]
+La medida más importante es utilizar correctamente los EPI y mantener el material esterilizado para evitar contaminaciones y posibles infecciones durante la siembra.
 
 ---
 
@@ -209,13 +209,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Incluye la colonia asignada y tres tubos con medio sólido: A y C inclinados; B recto.] |
+| Instrumental | Asa de siembra, aguja de siembra y mechero |
+| Equipos |    Gradilla y material de protección (bata y guantes)|
+| Reactivos/materiales | Colonia asignada y tres tubos con medio sólido: A y C inclinados y B recto.  |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| No aplica|
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -225,8 +225,8 @@ Registra los datos observados en la ejecución real de los tubos A, B y C. Escri
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| No procede | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| No procede | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
 | Características del producto o resultado final | [Describe A: estría superficial; B: crecimiento en la trayectoria recta; C: picadura y superficie estriada por separado. Indica controles y limitaciones.] |
 
 ## 10. Evidencias visuales
