@@ -285,7 +285,7 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 | Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
-| [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
+| No se registraron incidencias. | No se identificaron riesgos | No fue necesario aplicar medidas correctoras.|  no  | No afectó al resultado.|
 
 ---
 
