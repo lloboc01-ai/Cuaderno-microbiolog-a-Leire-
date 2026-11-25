@@ -96,14 +96,14 @@ La tinción de Gram comprende colorante primario, mordiente, decoloración, cont
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real con colonia autorizada / alternativa docente; describe cuál]
-- **Código de cepa y colonia asignada:** [Registra el código docente, medio/origen conocido y fecha de lectura; no inventes datos]
-- **Kit de Gram utilizado:** [Fabricante o referencia, lote y caducidad disponibles]
+- **Nombre y apellidos:** Leire Lobo Conde 
+- **Fecha real de realización:** 25/11/26
+- **Grupo:** 2°LCB
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal que realizaste:** técnico de laboratorio 
+- **Modalidad realmente realizada:** Ejecución real con colonia autorizada
+- **Código de cepa y colonia asignada:** Bacillus
+- **Kit de Gram utilizado:** Deltalab
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -113,13 +113,14 @@ Enumera los materiales y equipos previstos para teñir colonias autorizadas. Inc
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta u otro] |
-| Equipos | [Microscopio y objetivo; mechero Bunsen solo si está autorizado] |
-| Reactivos/materiales | [Colonia y código docente, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos] |
+| Instrumental | Portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta y puente de tinción |
+| Equipos | Microscopio y objetivo; mechero Bunsen  |
+| Reactivos/materiales | suero fisiológico estéril, agua destilada, cristal violeta, lugol, safranina y decolorante|
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel y envoltorios limpios | Urbanos o asimilables a los urbanos |
+| Portaobjetos  | Punzocortantes |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -129,9 +130,9 @@ Registra la ejecución real o la alternativa asignada. Anota la cepa y colonia c
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No previstos para la tinción; escribe «No aplica» salvo que las condiciones autorizadas requieran alguno] |
-| Configuración de equipos (si procede) | [Microscopio, objetivos usados, aceite de inmersión si procede y ajustes relevantes] |
-| Características del producto o resultado final | [Código de cepa/colonia, aspecto del frotis, secuencia y tiempos aplicados, controles, reacción tintorial, morfología y limitaciones] |
+| Cálculos (si procede) | Se prepararon 50 mL de decolorante utilizando 3 partes de etanol y 1 parte de acetona. Se calcularon 37,5 mL de etanol y 12,5 mL de acetona. |
+| Configuración de equipos (si procede) | Microscopio óptico con objetivos de 10x, 40x y 100x. Se utiliza aceite de inmersión para el objetivo de 100x. |
+| Características del producto o resultado final | Se realiza la tinción siguiendo la secuencia: cristal violeta, lugol, alcohol-acetona y safranina. Las bacterias Gram positivas aparecen violetas y las Gram negativas rosadas. Se observa la morfología y disposición de las bacterias. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
