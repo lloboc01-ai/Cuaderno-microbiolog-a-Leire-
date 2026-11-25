@@ -196,19 +196,19 @@ Registra la ejecución real o la alternativa asignada. Anota la cepa y colonia c
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | [Completa] | [Completa] | [Sí / No; explica] |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la morfología, disposición y reacción tintorial observadas. Explica si los controles permiten aceptar la práctica, qué efecto tendría una sobredecoloración o una decoloración insuficiente y por qué el resultado no equivale a una identificación definitiva de especie.
 
-[Escribe aquí tu interpretación técnica.]
+Se observaron bacilos Gram positivos, que presentan forma alargada y color violeta debido a que retienen el cristal violeta tras la decoloración. Los controles permiten comprobar que la tinción se ha realizado correctamente. Una sobredecoloración podría hacer que bacterias Gram positivas apareciesen rosadas, mientras que una decoloración insuficiente podría hacer que bacterias Gram negativas apareciesen violetas. Esta técnica no permite identificar definitivamente la especie, por lo que serían necesarias pruebas bioquímicas o moleculares posteriores.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Valora razonadamente en qué medida el procedimiento aplicado y el resultado obtenido permitieron alcanzar el objetivo de realizar una tinción de Gram interpretable. Apoya la valoración en tus evidencias e indica una limitación relevante.
 
-[Escribe aquí tu conclusión.]
+La práctica permitió realizar correctamente la tinción de Gram y observar bacilos Gram positivos de color violeta. El resultado fue interpretable y permitió diferenciar las bacterias según su reacción tintorial. Como limitación, esta técnica no permite identificar la especie bacteriana.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -216,36 +216,36 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento:** ¿Qué paso de la secuencia de Gram consideras más determinante para no alterar la reacción tintorial y cómo verificaste que se controló adecuadamente?
 
-   [Respuesta del alumnado]
+   El paso más determinante es la decoloración con alcohol-acetona, ya que un tiempo excesivo o insuficiente puede alterar el resultado. Se controló respetando el tiempo establecido.
 
 **2. Interpretación — Sobre la edad del cultivo:** ¿De qué manera la edad o el estado fisiológico de la colonia empleada puede modificar la respuesta tintorial esperada en bacterias Gram positivas?
 
-   [Respuesta del alumnado]
+   Un cultivo envejecido puede hacer que algunas bacterias Gram positivas pierdan capacidad para retener el cristal violeta y aparezcan rosadas.
 
 **3. Conclusiones — Sobre el alcance diagnóstico:** Más allá de orientar el grupo tintorial y la morfología, ¿qué información crítica sobre la cepa no puede obtenerse mediante esta técnica y qué pruebas posteriores requeriría?
 
-   [Respuesta del alumnado]
+   La tinción de Gram no permite conocer la especie exacta ni sus características bioquímicas. Para ello serían necesarias pruebas bioquímicas, cultivos específicos o técnicas moleculares.
 
 **4. Aprendizaje y transferencia — Sobre otras técnicas:** De las habilidades desarrolladas al preparar el frotis y controlar tiempos críticos en Gram, ¿cuáles consideras directamente transferibles a otras tinciones diferenciales (como Ziehl-Neelsen)?
 
-   [Respuesta del alumnado]
+Son transferibles la preparación correcta del frotis, la fijación, el control de los tiempos, la aplicación ordenada de reactivos y la observación microscópica.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P04` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 25/11/26|
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen del material o evidencia | [Completa] |
-| Kit, reactivos y lotes o referencias | [Completa] |
+| Agrupamiento | Individual  |
+| Modalidad y origen del material o evidencia |Práctica de tinción de Gram en el laboratorio|
+| Kit, reactivos y lotes o referencias | Cristal violeta, lugol, decolorante (etanol y acetona) y safranina. |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Resultado | Observación de bacilos Gram positivos de color violeta.|
+| Interpretación | Bacterias con morfología bacilar y reacción Gram positiva. |
+| Incidencias y acciones correctoras | No se detectaron incidencias. |
+| Ruta de residuos aplicada | Residuos urbanos, punzocortantes |
+| Estado de entrega | Entregado |
 
 ---
 Mostrando P04_Tincion_de_Gram.md.
