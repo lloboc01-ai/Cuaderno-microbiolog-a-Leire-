@@ -182,44 +182,47 @@ Resume los hallazgos más relevantes y especifica qué resultado procede de obse
 
 [Escribe aquí el resultado principal.]
 
+
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-Añade las imágenes propias después de realizar la práctica y en el orden cronológico indicado. Fotografía solo modalidades realmente realizadas y autorizadas; no incluyas rostros, nombres, etiquetas con datos personales ni pasos que incumplan las normas del centro. Si no realizaste una modalidad, marca «No aplica» y explica el motivo; no sustituyas la evidencia por una imagen ajena o simulada.
+Las fotografías deben guardarse en la carpeta `docs/assets/P02/` del repositorio. Se utilizarán únicamente imágenes propias y autorizadas.
 
 ### Imagen 1 — Preparación húmeda sin concentración
 
-- **Archivo previsto:**  `../assets/P02/01_preparación_sin_concentración.jpg`
-- **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
-- **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+![Preparación húmeda sin concentración](../assets/P02/01_preparación_sin_concentración.jpg)
+
+**Pie de foto:** Preparación directa de la muestra de agua estancada sobre el portaobjetos, colocando una gota de muestra y el cubreobjetos.
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-- **Archivo previsto:** `../assets/P02/02_campo_sin_concentración.jpg`
-- **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+![Campo microscópico sin concentración](../assets/P02/02_campo_sin_concentración.jpg)
+
+**Pie de foto:** Observación microscópica de la muestra de agua estancada. Se describen las estructuras observadas y el aumento utilizado.
 
 ### Imagen 3 — Centrifugación de la muestra
 
-- **Archivo previsto:** `../assets/P02/03_centrifugación.jpg`
-- **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
-- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+**Imagen no disponible en la carpeta actual.**
+
+**Pie de foto:** [Añadir fotografía si se realizó la centrifugación y se dispone de evidencia propia autorizada.]
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
-- **Archivo previsto:** `../assets/P02/04_campo_concentrado.jpg`
-- **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+![Campo microscópico de la preparación concentrada](../assets/P02/04_campo_concentrado.jpg)
+
+**Pie de foto:** Observación microscópica de la muestra concentrada tras la centrifugación, indicando las estructuras encontradas y el aumento utilizado.
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
-- **Archivo previsto:** `../assets/P02/05_limpieza_y_residuos.jpg`
-- **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
-- **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+**Imagen no disponible en la carpeta actual.**
+
+**Pie de foto:** [Añadir fotografía propia de la limpieza y eliminación de residuos si se dispone de ella.]
+
+### Anexo — Microorganismos de referencia
+
+![Anexo de microorganismos](../assets/P02/anexo_microorganismos.jpg)
+
+**Pie de foto:** Imagen de referencia docente para orientar la identificación de los microorganismos observados. No constituye una fotografía propia de la práctica.
+
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
