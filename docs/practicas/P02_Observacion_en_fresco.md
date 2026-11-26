@@ -180,7 +180,7 @@ Espero encontrar microorganismos, como protozoos y algas, además de restos de m
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
-[Escribe aquí el resultado principal.]
+No he encontrado hallazgos
 
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
@@ -226,20 +226,20 @@ Las fotografías deben guardarse en la carpeta `docs/assets/P02/` del repositori
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
-|---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+No se detectaron incidencias
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-[Escribe aquí tu interpretación técnica.]
+Se observó una muestra de agua del pantano mediante microscopía en fresco. No se encontraron microorganismos ni estructuras identificables en el campo visual. Tampoco se observaron movimientos que permitieran identificar organismos con movilidad propia. Por tanto, no se puede realizar ninguna identificación.
+La ausencia de hallazgos puede deberse a la baja concentración de microorganismos en la muestra o a que no estuvieran presentes en la zona observada. Cualquier pequeño movimiento podría deberse a corrientes del agua, vibraciones o movimiento browniano, y no necesariamente a microorganismos vivos.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-[Escribe aquí tu conclusión.]
+Se alcanzó el objetivo de preparar y observar una muestra de agua del pantano en fresco y registrar los resultados. Sin embargo, no se encontraron microorganismos ni otros hallazgos visibles. La principal limitación fue que no se pudo identificar ningún elemento en la muestra.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -247,36 +247,36 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   [Respuesta del alumnado]
+   La decisión más importante fue colocar correctamente la gota de agua y el cubreobjetos para evitar burbujas y facilitar la observación.
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   [Respuesta del alumnado]
+   No se observaron microorganismos ni desplazamientos claros. Para confirmar si existía movilidad propia sería necesario observar movimientos repetidos y comprobar que no se debían a corrientes o vibraciones.
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   [Respuesta del alumnado]
+   El registro de observación respalda mejor la conclusión, ya que refleja que no se encontraron hallazgos. Su limitación es que solo representa los campos microscópicos observados.
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   [Respuesta del alumnado]
+   En una próxima práctica observaría más campos microscópicos y diferentes zonas de la muestra. Este aprendizaje ayudaría a mejorar la preparación y observación en otras técnicas, como las tinciones.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23/09/2026|
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Trabajo en equipo con Marta|
+| Modalidad y origen de la muestra o evidencia | Muestra de agua natural recogida de un pantano|
+| Materiales o lotes relevantes | Portaobjetos, cubreobjetos, pipeta y microscopio|
+| Controles | Comprobación del microscopio y correcta preparación de la muestra|
+| Resultado | No se observaron microorganismos ni estructuras identificables|
+| Interpretación | No se encontraron hallazgos en los campos microscópicos observados|
+| Incidencias y acciones correctoras |  No se detectaron incidencias |
+| Ruta de residuos aplicada |Eliminación de la muestra según las indicaciones del profesor y limpieza del material reutilizable |
+| Estado de entrega | entregado |
 
 ---
 
