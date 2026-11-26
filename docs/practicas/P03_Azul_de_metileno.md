@@ -206,58 +206,48 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 La tinción con azul de metileno permitió aumentar el contraste y facilitar la observación de posibles microorganismos presentes en el agua del pantano. Se pudieron distinguir mejor algunas formas y estructuras celulares. Sin embargo, la tinción puede alterar su aspecto y no permite observar su movimiento natural. Resultado basado en una práctica propia.
 
+
 ## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-> Aporta fotografías propias de las tareas que realizaste y que el centro autorizó fotografiar. No incluyas rostros, datos personales ni etiquetas con información sensible. No uses material docente, imágenes de referencia ni vídeos como evidencia propia. Si no realizaste la tarea o no está autorizada su fotografía, escribe «No aplica» y explica el motivo; no inventes ni sustituyas evidencias.
->
-> Guarda las fotografías del alumnado en `docs/modulos/microbiologia-clinica/assets/P03/`, con los nombres previstos. Añádelas después de realizar la práctica; las rutas siguientes indican dónde se guardará cada archivo.
+Las fotografías deben guardarse en la carpeta `assets/P03/` del repositorio. Las imágenes aparecerán directamente en el cuaderno.
 
 ### Imagen 1 — Preparación del colorante
 
-- **Archivo previsto:** `../assets/P03/01_preparacion_colorante.jpg`
-- **Texto alternativo:** Preparación autorizada de la solución de azul de metileno.
-- **Pie de foto:** [Describe la pesada y preparación de la solución; registra la concentración final indicada en la etiqueta.]
-- **Control de seguridad o calidad visible:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica o escribe «No aplica» si no preparaste la solución.]
+![Preparación del azul de metileno](assets/P03/01_preparacion_colorante.jpg)
+
+**Pie de foto:** Preparación de la solución de azul de metileno, indicando la concentración utilizada.
 
 ### Imagen 2 — Proceso de tinción
 
-- **Archivo previsto:** `../assets/P03/02_proceso_tincion.jpg`
-- **Texto alternativo:** Aplicación del azul de metileno a la muestra en el portaobjetos.
-- **Pie de foto:** [Describe la aplicación del colorante y la preparación del portaobjetos.]
-- **Medida de seguridad o calidad que demuestra:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+![Proceso de tinción con azul de metileno](assets/P03/02_proceso_tincion.jpg)
 
-### Imagen 3 — Campo microscópico teñido sin centrifugación
+**Pie de foto:** Aplicación del azul de metileno sobre la muestra colocada en el portaobjetos.
 
-- **Archivo previsto:** `../assets/P03/03_campo_tenido_sin_centrifugacion.jpg`
-- **Texto alternativo:** Campo microscópico de la preparación teñida sin centrifugación.
-- **Pie de foto:** [Describe el campo y registra el aumento utilizado.]
-- **Rasgo observado y limitación:** [Completa; evita identificar organismos sin evidencia suficiente]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+### Imagen 3 — Preparación de la muestra
 
-### Imagen 4 — Proceso de centrifugación
+![Preparación de la muestra en el portaobjetos](assets/P03/03_preparacion_muestra.jpg)
 
-- **Archivo previsto:** `../assets/P03/04_proceso_centrifugacion.jpg`
-- **Texto alternativo:** Tubo y centrífuga durante la preparación concentrada.
-- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
-- **Control de seguridad o calidad visible:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Modalidad no realizada:** [Escribe «No aplica» y explica el motivo, si no se realizó centrifugación.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+**Pie de foto:** Colocación del cubreobjetos sobre la muestra teñida, evitando la formación de burbujas.
 
-### Imagen 5 — Campo microscópico teñido con centrifugación
+### Imagen 4 — Observación microscópica
 
-- **Archivo previsto:** `../assets/P03/05_campo_tenido_con_centrifugacion.jpg`
-- **Texto alternativo:** Campo microscópico de la preparación teñida tras centrifugación.
-- **Pie de foto:** [Describe el campo, identifica la fracción observada y registra el aumento.]
-- **Rasgo observado y limitación:** [Completa; no infieras movilidad ni viabilidad tras la concentración.]
-- **Autoría:** [Propia / compartida con tu pareja]
-- **Modalidad no realizada:** [Escribe «No aplica» y explica el motivo, si no se realizó esta preparación.]
-- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+![Observación microscópica de la muestra teñida](assets/P03/04_observacion_microscopica.jpg)
+
+**Pie de foto:** Observación de la muestra teñida con azul de metileno utilizando el microscopio óptico.
+
+### Imagen 5 — Resultado de la tinción
+
+![Resultado microscópico de la tinción](assets/P03/05_resultado_tincion.jpg)
+
+**Pie de foto:** Campo microscópico con estructuras teñidas de azul, indicando el aumento utilizado.
+
+### Imagen 6 — Limpieza del puesto de trabajo
+
+![Limpieza del puesto de trabajo](assets/P03/06_limpieza_puesto.jpg)
+
+**Pie de foto:** Limpieza y desinfección del material y del puesto de trabajo después de finalizar la práctica.
+
+
 
 ## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
