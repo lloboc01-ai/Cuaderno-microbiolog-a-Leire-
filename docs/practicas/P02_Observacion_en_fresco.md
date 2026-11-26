@@ -195,28 +195,28 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-- **Archivo previsto:** (assets/P02/02_campo_sin_concentracion.jpg)
+- **Archivo previsto:** ../assets/P02/02_campo_sin_concentración.jpg
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Centrifugación de la muestra
 
-- **Archivo previsto:** (assets/P02/03_centrifugacion.jpg)
+- **Archivo previsto:** ../assets/P02/03_centrifugación.jpg
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
 - **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
-- **Archivo previsto:** (assets/P02/04_campo_concentrado.jpg)
+- **Archivo previsto:** ../assets/P02/04_campo_concentrado.jpg
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
-- **Archivo previsto:** (assets/P02/05_limpieza_y_residuos.jpg)
+- **Archivo previsto:** ../assets/P02/05_limpieza_y_residuos.jpg
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
