@@ -206,46 +206,34 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 La tinción con azul de metileno permitió aumentar el contraste y facilitar la observación de posibles microorganismos presentes en el agua del pantano. Se pudieron distinguir mejor algunas formas y estructuras celulares. Sin embargo, la tinción puede alterar su aspecto y no permite observar su movimiento natural. Resultado basado en una práctica propia.
 
-
 ## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 Las fotografías deben guardarse en la carpeta `assets/P03/` del repositorio. Las imágenes aparecerán directamente en el cuaderno.
 
+
 ### Imagen 1 — Preparación del colorante
 
-![Preparación del azul de metileno](assets/P03/01_preparacion_colorante.jpg)
-
-**Pie de foto:** Preparación de la solución de azul de metileno, indicando la concentración utilizada.
+![Preparación del azul de metileno](../assets/P03/01_preparacion_colorante.jpg)
 
 ### Imagen 2 — Proceso de tinción
 
-![Proceso de tinción con azul de metileno](assets/P03/02_proceso_tincion.jpg)
-
-**Pie de foto:** Aplicación del azul de metileno sobre la muestra colocada en el portaobjetos.
+![Proceso de tinción](../assets/P03/02_proceso_tincion.jpg)
 
 ### Imagen 3 — Preparación de la muestra
 
-![Preparación de la muestra en el portaobjetos](assets/P03/03_preparacion_muestra.jpg)
-
-**Pie de foto:** Colocación del cubreobjetos sobre la muestra teñida, evitando la formación de burbujas.
+![Preparación de la muestra](../assets/P03/03_preparacion_muestra.jpg)
 
 ### Imagen 4 — Observación microscópica
 
-![Observación microscópica de la muestra teñida](assets/P03/04_observacion_microscopica.jpg)
-
-**Pie de foto:** Observación de la muestra teñida con azul de metileno utilizando el microscopio óptico.
+![Observación microscópica](../assets/P03/04_observacion_microscopica.jpg)
 
 ### Imagen 5 — Resultado de la tinción
 
-![Resultado microscópico de la tinción](assets/P03/05_resultado_tincion.jpg)
+![Resultado de la tinción](../assets/P03/05_resultado_tincion.jpg)
 
-**Pie de foto:** Campo microscópico con estructuras teñidas de azul, indicando el aumento utilizado.
+### Imagen 6 — Limpieza del puesto
 
-### Imagen 6 — Limpieza del puesto de trabajo
-
-![Limpieza del puesto de trabajo](assets/P03/06_limpieza_puesto.jpg)
-
-**Pie de foto:** Limpieza y desinfección del material y del puesto de trabajo después de finalizar la práctica.
+![Limpieza del puesto](../assets/P03/06_limpieza_puesto.jpg)
 
 
 
